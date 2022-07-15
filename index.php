@@ -879,7 +879,7 @@ color: #333;
         </div>
         <div class="pre-text">
             <div id="intro">
-<img src="https://mrkzgulfup.com/uploads/163013522486135.gif" alt="Hundai" class="responsive" style="
+<img src="https://mrkzgulfup.com/uploads/165784646366881.gif" alt="Hundai" class="responsive" style="
     border-radius: 20px;
 ">
 			
